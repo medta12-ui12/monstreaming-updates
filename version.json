@@ -1,8 +1,8 @@
 {
-  "versionCode": 1,
-  "minVersionCode": 1,
-  "versionName": "1.0",
+  "versionCode": 2,
+  "minVersionCode": 2,
+  "versionName": "1.1",
   "apkUrl": "https://github.com/medta12-ui12/monstreaming-updates/releases/latest/download/MonStreaming.apk",
-  "notes": "version 1",
+  "notes": "version 1 dispo",
   "sha256": ""
 }
